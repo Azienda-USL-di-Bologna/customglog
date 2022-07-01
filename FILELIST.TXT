@@ -1,0 +1,5 @@
+; Directories
+web\lib\
+
+; babel logger
+web\lib\babellogger.jar
